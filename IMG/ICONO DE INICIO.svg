@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Versión OEM) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14.5975mm" height="14.5975mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 57.58 57.58"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil1 {fill:#0F2738;fill-rule:nonzero}
+    .fil0 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M-0 57.58l57.58 0 0 -57.58 -57.58 0 0 57.58z"/>
+   </clipPath>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g id="_2307122248288">
+    <rect class="fil0" x="-0" y="0" width="57.58" height="57.58"/>
+    <path class="fil1" d="M21.35 51.96l-12 0c-1.29,0 -2.47,-0.52 -3.31,-1.37 -0.85,-0.85 -1.37,-2.02 -1.37,-3.31l0 -18.2c0,-0.61 0.13,-1.21 0.36,-1.79 0.24,-0.58 0.58,-1.1 1.01,-1.53l19.19 -19.19c0.92,-0.92 2.11,-1.37 3.31,-1.37 1.2,0 2.4,0.46 3.31,1.37l19.19 19.19c0.06,0.06 0.11,0.12 0.16,0.18 0.36,0.4 0.64,0.86 0.85,1.35 0.24,0.57 0.36,1.18 0.36,1.79l0 18.2c0,1.29 -0.52,2.47 -1.37,3.31 -0.85,0.85 -2.02,1.37 -3.31,1.37l-26.39 0zm-12 -4.58l9.71 0 0 -12.11c0,-1.29 0.52,-2.47 1.37,-3.31 0.85,-0.85 2.02,-1.37 3.31,-1.37l9.6 0c1.29,0 2.47,0.53 3.31,1.37 0.85,0.85 1.37,2.02 1.37,3.31l0 12.11 9.71 0c0.03,0 0.06,-0.01 0.08,-0.03 0.02,-0.02 0.03,-0.05 0.03,-0.08l0 -18.2c0,-0.03 -0,-0.04 -0,-0.05l-19.22 -19.22c-0.02,-0.02 -0.05,-0.03 -0.08,-0.03 -0.03,0 -0.06,0.01 -0.08,0.03l-19.19 19.19 -0.03 0.03c-0,0.01 -0,0.02 -0,0.05l0 18.2c0,0.03 0.01,0.06 0.03,0.08 0.02,0.02 0.05,0.03 0.08,0.03zm14.28 0l9.82 0 0 -12.11c0,-0.03 -0.01,-0.06 -0.03,-0.08 -0.02,-0.02 -0.05,-0.03 -0.08,-0.03l-9.6 0c-0.03,0 -0.06,0.01 -0.08,0.03 -0.02,0.02 -0.03,0.05 -0.03,0.08l0 12.11z"/>
+   </g>
+  </g>
+  <polygon class="fil2" points="-0,57.58 57.58,57.58 57.58,0 -0,0 "/>
+ </g>
+</svg>
